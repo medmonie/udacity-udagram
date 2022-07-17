@@ -1,7 +1,3 @@
-# Udagram infrastructure
-
-![](./architecture.PNG)
-
 ### RDS Postgres
 
 AWS RDS Postgres is used to store data, to access database use the following url.
