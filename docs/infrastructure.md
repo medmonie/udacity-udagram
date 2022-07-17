@@ -4,7 +4,7 @@
 
 ### RDS Postgres
 
-AWS RDS Postgres to access database url.
+AWS RDS Postgres is used to store data, to access database use the following url.
 
 URL: `postgres://postgres:postgres@database-1.cb08xahlnwqz.us-east-1.rds.amazonaws.com:5432/postgres`
 
